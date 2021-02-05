@@ -17,6 +17,12 @@ body {
   background-color: var(--darkgreen);
 }
 
+.center {
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+}
+
 .imagenCentro {
   background-color: var(--white);
   display: block;
